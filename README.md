@@ -2,7 +2,7 @@
 
 **Course Link:** <https://www.udemy.com/course/modern-nlp/>
 
-## INFORMATION
+## DESCRIPTION
 
 * Solve Seq2Seq and Classification NLP tasks with Transformer and CNN using Tensorflow 2 in Google Colab
 * Throughout this course, we will leverage the huge amount of speech and text data available online, and we will explore the main 3 and most powerful NLP applications, that will give you the power to successfully approach any real-world challenge.
@@ -33,31 +33,6 @@
 9. Clean text data
 10. Understand why and how each of those models work
 11. Understand everything about the attention mechanism, lying behind the newest and most powerful NLP algorithms
-
----
-
-## What you'll learn
-
-* Connect Microsoft Power BI to data sources
-* Create Barcharts
-* Create Treemaps
-* Create Donut Charts
-* Create Waterfall Diagrams
-* Create Piecharts
-
----
-
-## Description
-
-* Learn data visualization through Microsoft Power BI and create opportunities for you or key decision makers to discover data patterns such as customer purchase behavior, sales trends, or production bottlenecks.
-
-* You'll learn all of the features in Power BI that allow you to explore, experiment with, fix, prepare, and present data easily, quickly, and beautifully.
-
-* Use Power BI to Analyze and Visualize Data So You Can Respond Accordingly
-
-* Connect Power BI to a Variety of Datasets
-* Drill Down and Up in Your Visualization and Calculate Data
-* Visualize Data in the Form of Various Charts, Plots, and Maps
 
 ---
 
